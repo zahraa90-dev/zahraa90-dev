@@ -75,7 +75,7 @@ Went through EDA, handled class imbalance with SMOTE, and tested different class
 
 | 🎓 Credential | 🏛️ Issuer | 📅 Year |
 |---|---|---|
-| AI Engineering — Bachelor's (in progress) | Menufia National University | 2024 – Present |
+| AI & CS — Bachelor's (in progress) | Menufia National University | 2024 – Present |
 | Machine Learning Track | NTI | 2025 |
 | Data Engineering Track | DEPI | 2026 |
 
