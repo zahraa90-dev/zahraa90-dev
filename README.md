@@ -70,16 +70,6 @@ Went through EDA, handled class imbalance with SMOTE, and tested different class
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alzahraa&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alzahraa&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 ## 📜 Education & Courses
 
