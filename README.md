@@ -57,7 +57,7 @@ I'm Alzahraa, a 2nd-year AI Engineering student from Egypt. Honestly still in th
 
 Collected data from property listing sites, did some basic feature engineering, and tried a few models. **XGBoost** worked best. This one taught me the full ML workflow from scratch.
 
-`Python` `Scikit-learn` `Pandas` 
+`Python` `LightGBM` `Scikit-learn` `Pandas` 
 
 ---
 
