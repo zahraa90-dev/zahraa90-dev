@@ -1,95 +1,91 @@
 <div align="center">
 
-# Hi, I'm Alzahraa 👋
-### AI Engineering Student · ML Enthusiast · Building Cool Things with Data
+# مرحباً، أنا الزهراء 👋
+### طالبة هندسة ذكاء اصطناعي · بتعلم ML من الأساس
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alzahraa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alzahraa)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/alzahraa)
-[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/alzahraa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alzahraa@email.com)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🙋‍♀️ عني
 
-2nd-year AI Engineering student with a strong passion for building intelligent systems that solve real problems. I enjoy working across the full ML spectrum — from data wrangling and model training to deploying APIs and experimenting with LLMs.
+أنا الزهراء، طالبة سنة تانية هندسة ذكاء اصطناعي في جامعة منوفية الوطنية. لسه في البداية بصراحة — بتعلم الأساسيات وبحاول أطبّق اللي بتعلمه في مشاريع صغيرة. مش خبيرة، بس متحمسة 🙂
 
-- 🎓 Currently: **2nd Year, AI Engineering**
-- 🔭 Working on: **Arabic NLP & Computer Vision side projects**
-- 🌱 Learning: **Transformers, MLOps, and LLM fine-tuning**
-- 🏆 Open to: **Internships, research, open-source contributions**
-- 💬 Ask me about: **Python, deep learning basics, Kaggle competitions**
-- 📍 Based in: **Egypt 🇪🇬**
+- 🎓 **السنة الثانية، هندسة AI @ جامعة منوفية الوطنية**
+- 🔭 شغّالة على: **مشاريع NLP و CV صغيرة للتدريب**
+- 🌱 بتعلم دلوقتي: **أساسيات Deep Learning و PyTorch**
+- 💬 ممكن تسألني عن: **Python، scikit-learn، Kaggle notebooks للمبتدئين**
+- 🤝 بدور على: **مجموعات دراسة أو open-source مناسب للمبتدئين**
+- 📍 مصر 🇪🇬
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ اللي بستخدمه
 
-### Languages
+### لغات
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### ML / DL Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### ML / DL
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Tools & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### أدوات
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### Data
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
 ---
 
-## 🚀 Projects
+## 🚀 مشاريع جربت فيها
 
-### 🩺 Arabic Medical Chatbot
-> **A retrieval-based chatbot that answers common medical questions in Arabic using a fine-tuned AraBERT model**
+### 😷 Face Mask Detection
+> **Classifier بسيط يتعرف على الماسك من صورة**
 
-Fine-tuned **AraBERT** on a custom Arabic medical Q&A dataset scraped from health forums. Built a Streamlit interface with context-aware retrieval. Achieved **87% accuracy** on the test set.
+أول تجربة ليا مع CNNs. استخدمت **MobileNetV2** مع Transfer Learning على dataset من Kaggle. تعلمت Data Augmentation وكيف أتعامل مع Overfitting.
 
-`Python` `Hugging Face` `AraBERT` `Streamlit` `FAISS`
-
----
-
-### 😷 Face Mask Detection — Real-Time
-> **Real-time face mask detection system using a custom-trained MobileNetV2 classifier**
-
-Trained **MobileNetV2** (transfer learning) on a balanced dataset of 12,000 images (masked / unmasked / incorrect). Deployed with OpenCV for live webcam inference at **~30 FPS**. Achieved **95.4% val accuracy**.
-
-`Python` `TensorFlow` `OpenCV` `MobileNetV2` `Keras`
+`Python` `TensorFlow` `Keras` `OpenCV`
 
 ---
 
-### 🏠 Egyptian Real Estate Price Predictor
-> **ML model that predicts apartment prices in Egyptian cities based on location and features**
+### 🏠 توقع أسعار الشقق في مصر
+> **نموذج Regression يتوقع أسعار الشقق في مدن مصرية**
 
-Scraped **~8,000 listings** from Egyptian property websites, cleaned and engineered features (area, floor, city, amenities). Compared 6 regression models — **XGBoost** won with MAE of **~18,000 EGP**. Deployed as a FastAPI endpoint.
+جمعت داتا من مواقع عقارات، عملت Feature Engineering بسيطة، وجربت أكتر من موديل. **XGBoost** كان الأحسن. المشروع ده علّمني الـ workflow كامل من الداتا للتقييم.
 
-`Python` `Scikit-learn` `XGBoost` `FastAPI` `Pandas` `BeautifulSoup`
+`Python` `XGBoost` `Scikit-learn` `Pandas`
 
 ---
 
-### 📊 Customer Churn Prediction — Kaggle
-> **Binary classification notebook for telecom customer churn, top 18% on public leaderboard**
+### 📊 Telecom Churn — Kaggle
+> **أول مسابقة Kaggle ليا — Binary Classification**
 
-Full pipeline: EDA → feature engineering → SMOTE for class imbalance → ensemble of LightGBM + Logistic Regression. Wrote a detailed Kaggle notebook with visualizations.
+جربت EDA، تعاملت مع Class Imbalance بـ SMOTE، وجربت كذا موديل. **LightGBM** كان الأفضل. وصلت Top 18% وده شجّعني أكمل!
 
-`Python` `LightGBM` `Scikit-learn` `SMOTE` `Seaborn`
+`Python` `LightGBM` `Scikit-learn` `SMOTE`
+
+---
+
+### 🩺 Arabic Medical Chatbot *(شغال عليه)*
+> **Chatbot بسيط بيجاوب على أسئلة طبية بالعربي**
+
+بجرب فيه Fine-tuning على **AraBERT** وعايزة أعمله واجهة بـ Streamlit. لسه ناقص أكمله.
+
+`Python` `Hugging Face` `AraBERT` `Streamlit`
 
 ---
 
@@ -104,32 +100,28 @@ Full pipeline: EDA → feature engineering → SMOTE for class imbalance → ens
 
 ---
 
-## 📜 Education & Courses
+## 📜 تعليم وكورسات
 
-| 🎓 Credential | 🏛️ Issuer | 📅 Year |
+| 🎓 الشهادة | 🏛️ الجهة | 📅 السنة |
 |---|---|---|
-| AI Engineering — Bachelor's (in progress) | [University Name] | 2023 – Present |
+| هندسة AI — بكالوريوس (جاري) | جامعة منوفية الوطنية | 2023 – present |
 | Machine Learning Specialization | DeepLearning.AI / Coursera | 2024 |
-| CS50's Introduction to AI with Python | Harvard / edX | 2024 |
-| Kaggle ML & Pandas Micro-courses | Kaggle | 2023 |
+| CS50 AI with Python | Harvard / edX | 2024 |
+| Kaggle ML Micro-courses | Kaggle | 2023 |
 
 ---
 
-## 🤝 Let's Connect
+## 💬 تواصل معايا
 
-I'm always looking for:
-- 🔬 **Research or capstone project collaborations**
-- 🧑‍💻 **Internship opportunities** in AI/ML
-- 🌍 **Open-source contributions** to Arabic NLP tools
-- 💬 Just chatting about AI with fellow students!
+لو عندك نصيحة للمبتدئين، أو بتدور على حد يتعلم معاك، أو عندك مشروع open-source مناسب — أنا موجودة!
 
-Reach me at — **alzahraa@email.com**
+📧 **alzahraa@email.com**
 
 ---
 
 <div align="center">
 
-*"Start before you're ready. Learn as you build."*
+*"مش لازم تكون جاهز. ابدأ وتعلم وانت بتعمل."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alzahraa&color=blueviolet&style=flat-square)
 
