@@ -1,7 +1,7 @@
 <div align="center">
 
-# مرحباً، أنا الزهراء 👋
-### طالبة هندسة ذكاء اصطناعي · بتعلم ML من الأساس
+# Hi, I'm Alzahraa 👋
+### AI Engineering Student · Still Learning · Figuring It Out One Project at a Time
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alzahraa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alzahraa)
@@ -12,22 +12,22 @@
 
 ---
 
-## 🙋‍♀️ عني
+## 🙋‍♀️ About Me
 
-أنا الزهراء، طالبة سنة تانية هندسة ذكاء اصطناعي في جامعة منوفية الوطنية. لسه في البداية بصراحة — بتعلم الأساسيات وبحاول أطبّق اللي بتعلمه في مشاريع صغيرة. مش خبيرة، بس متحمسة 🙂
+I'm Alzahraa, a 2nd-year AI Engineering student from Egypt. Honestly still in the early stages — learning the fundamentals and trying to apply them through small projects. Not an expert by any means, but genuinely enjoying the process 🙂
 
-- 🎓 **السنة الثانية، هندسة AI @ جامعة منوفية الوطنية**
-- 🔭 شغّالة على: **مشاريع NLP و CV صغيرة للتدريب**
-- 🌱 بتعلم دلوقتي: **أساسيات Deep Learning و PyTorch**
-- 💬 ممكن تسألني عن: **Python، scikit-learn، Kaggle notebooks للمبتدئين**
-- 🤝 بدور على: **مجموعات دراسة أو open-source مناسب للمبتدئين**
-- 📍 مصر 🇪🇬
+- 🎓 **2nd Year, AI Engineering @ Menufia National University**
+- 🔭 Working on: **Small ML projects to practice what I learn**
+- 🌱 Currently learning: **Deep learning basics, PyTorch**
+- 💬 Ask me about: **Python basics, scikit-learn, beginner Kaggle notebooks**
+- 🤝 Looking for: **Study groups or beginner-friendly open-source projects**
+- 📍 Egypt 🇪🇬
 
 ---
 
-## 🛠️ اللي بستخدمه
+## 🛠️ What I Use
 
-### لغات
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -36,9 +36,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=flat-square)
 
-### أدوات
+### Tools
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -51,41 +50,23 @@
 
 ---
 
-## 🚀 مشاريع جربت فيها
+## 🚀 Projects I've Practiced On
 
-### 😷 Face Mask Detection
-> **Classifier بسيط يتعرف على الماسك من صورة**
+### 🏠 Egyptian Apartment Price Predictor
+> **Regression model to estimate apartment prices in Egyptian cities**
 
-أول تجربة ليا مع CNNs. استخدمت **MobileNetV2** مع Transfer Learning على dataset من Kaggle. تعلمت Data Augmentation وكيف أتعامل مع Overfitting.
-
-`Python` `TensorFlow` `Keras` `OpenCV`
-
----
-
-### 🏠 توقع أسعار الشقق في مصر
-> **نموذج Regression يتوقع أسعار الشقق في مدن مصرية**
-
-جمعت داتا من مواقع عقارات، عملت Feature Engineering بسيطة، وجربت أكتر من موديل. **XGBoost** كان الأحسن. المشروع ده علّمني الـ workflow كامل من الداتا للتقييم.
+Collected data from property listing sites, did some basic feature engineering, and tried a few models. **XGBoost** worked best. This one taught me the full ML workflow from scratch.
 
 `Python` `XGBoost` `Scikit-learn` `Pandas`
 
 ---
 
 ### 📊 Telecom Churn — Kaggle
-> **أول مسابقة Kaggle ليا — Binary Classification**
+> **My first Kaggle competition — binary classification**
 
-جربت EDA، تعاملت مع Class Imbalance بـ SMOTE، وجربت كذا موديل. **LightGBM** كان الأفضل. وصلت Top 18% وده شجّعني أكمل!
+Went through EDA, handled class imbalance with SMOTE, and tested different classifiers. **LightGBM** gave the best results. Ended up in the **top 18%** which really motivated me to keep going!
 
 `Python` `LightGBM` `Scikit-learn` `SMOTE`
-
----
-
-### 🩺 Arabic Medical Chatbot *(شغال عليه)*
-> **Chatbot بسيط بيجاوب على أسئلة طبية بالعربي**
-
-بجرب فيه Fine-tuning على **AraBERT** وعايزة أعمله واجهة بـ Streamlit. لسه ناقص أكمله.
-
-`Python` `Hugging Face` `AraBERT` `Streamlit`
 
 ---
 
@@ -100,20 +81,19 @@
 
 ---
 
-## 📜 تعليم وكورسات
+## 📜 Education & Courses
 
-| 🎓 الشهادة | 🏛️ الجهة | 📅 السنة |
+| 🎓 Credential | 🏛️ Issuer | 📅 Year |
 |---|---|---|
-| هندسة AI — بكالوريوس (جاري) | جامعة منوفية الوطنية | 2023 – present |
-| Machine Learning Specialization | DeepLearning.AI / Coursera | 2024 |
-| CS50 AI with Python | Harvard / edX | 2024 |
-| Kaggle ML Micro-courses | Kaggle | 2023 |
+| AI Engineering — Bachelor's (in progress) | Menufia National University | 2023 – Present |
+| Machine Learning Track | NTI | 2024 |
+| Data Engineering Track | DEPI | 2024 |
 
 ---
 
-## 💬 تواصل معايا
+## 💬 Let's Connect
 
-لو عندك نصيحة للمبتدئين، أو بتدور على حد يتعلم معاك، أو عندك مشروع open-source مناسب — أنا موجودة!
+If you have advice for beginners, want to learn together, or know a beginner-friendly open-source project — I'd love to hear from you!
 
 📧 **alzahraa@email.com**
 
@@ -121,7 +101,7 @@
 
 <div align="center">
 
-*"مش لازم تكون جاهز. ابدأ وتعلم وانت بتعمل."*
+*"You don't have to be ready. Start and learn as you go."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alzahraa&color=blueviolet&style=flat-square)
 
