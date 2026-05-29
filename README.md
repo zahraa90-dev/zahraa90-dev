@@ -85,9 +85,9 @@ Went through EDA, handled class imbalance with SMOTE, and tested different class
 
 | 🎓 Credential | 🏛️ Issuer | 📅 Year |
 |---|---|---|
-| AI Engineering — Bachelor's (in progress) | Menufia National University | 2023 – Present |
-| Machine Learning Track | NTI | 2024 |
-| Data Engineering Track | DEPI | 2024 |
+| AI Engineering — Bachelor's (in progress) | Menufia National University | 2024 – Present |
+| Machine Learning Track | NTI | 2025 |
+| Data Engineering Track | DEPI | 2026 |
 
 ---
 
@@ -95,7 +95,7 @@ Went through EDA, handled class imbalance with SMOTE, and tested different class
 
 If you have advice for beginners, want to learn together, or know a beginner-friendly open-source project — I'd love to hear from you!
 
-📧 **alzahraa@email.com**
+📧 **alzahraa.mohamed6343@ai.mnu.edu.eg**
 
 ---
 
